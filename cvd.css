@@ -1,0 +1,28 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+#datos{
+	background-color: #512E5F;
+	color: white;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+#foto{
+	width: 250px;
+}
+#nombre{
+	margin-top: 20px;
+	font-size: 20px;
+}
+#contacto{
+	width: 250px;
+	text-align: left;
+}
+.icono{
+	width: 20px;
+}
+
+#contenido{
+	background-color: #F2F3F4;
+	padding-top: 20px;
+}
